@@ -109,6 +109,7 @@ int main() {
 
 
 ## OUTPUT
+```
 [vijay@parrot]-[~/os/ex07/Linux-File-IO-Systems-locking]
 $ ./copy
 File copied successfully!
@@ -128,6 +129,7 @@ File locked successfully!
 Data written to file
 Press Enter to unlock...
 File unlocked!
+```
 
 
 
